@@ -1,0 +1,11 @@
+README:
+-------
+
+This repository contains some code for the Santander Customer Satisfaction
+competition on Kaggle.
+
+The inputs directory contains the training and test csv files
+
+The scripts directory contains various python scripts for data analysis, visualization and prediction
+
+The submissions directory contains submissions made to the competition.
